@@ -1,0 +1,1 @@
+This is a basic recipe website for the odin project. This website will have a main index page with links to recipies and will not be fully complete.
